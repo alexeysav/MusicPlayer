@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicplayer.MainActivity">
+
+    <TextView
+        android:id="@+id/playlist1"
+        style="@style/CategoryStyle"
+        android:background="@color/list1"
+        android:text="@string/playlist1"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/playlist2"
+        style="@style/CategoryStyle"
+        android:background="@color/list2"
+        android:text="@string/playlist2"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/songs"
+        style="@style/CategoryStyle"
+        android:background="@color/list4"
+        android:text="@string/songs"
+        android:textAllCaps="true"/>
+</LinearLayout>

@@ -9,6 +9,9 @@
     <!-- Background color for app -->
     <color name="tan_background">#fddaff</color>
 
+    <!-- Background color for player -->
+    <color name="tan_background2">#ffffff</color>
+
     <!-- Background color for the first list -->
     <color name="list1">#c921e7</color>
 

@@ -23,6 +23,9 @@
         android:name=".DanceActivity"
             android:label="@string/playlist2"/>
         <activity
+        android:name=".Player"
+            android:label="Player"/>
+        <activity
         android:name=".SongsActivity"
             android:label="@string/songs">
     </activity>
